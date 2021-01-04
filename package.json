@@ -1,6 +1,6 @@
 {
   "name": "webfpga-cli",
-  "version": "1.6.1",
+  "version": "0.2.0",
   "description": "DEPRECATED - Use https://github.com/webfpga/cli",
   "repository": {
     "type": "git",
